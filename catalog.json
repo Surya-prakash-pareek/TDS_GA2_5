@@ -1,0 +1,198 @@
+{
+  "metadata": {
+    "email": "22f2001613@ds.study.iitm.ac.in",
+    "version": "19cf38a2"
+  },
+  "products": [
+    {
+      "id": "prod-19cf38a2-001",
+      "name": "Elite Item 1",
+      "category": "electronics",
+      "price": 212.92,
+      "stock": 185,
+      "rating": 1.5
+    },
+    {
+      "id": "prod-19cf38a2-002",
+      "name": "Basic Item 2",
+      "category": "electronics",
+      "price": 474.8,
+      "stock": 165,
+      "rating": 4.2
+    },
+    {
+      "id": "prod-19cf38a2-003",
+      "name": "Standard Item 3",
+      "category": "clothing",
+      "price": 305.88,
+      "stock": 57,
+      "rating": 2.1
+    },
+    {
+      "id": "prod-19cf38a2-004",
+      "name": "Elite Item 4",
+      "category": "sports",
+      "price": 378.13,
+      "stock": 196,
+      "rating": 3.8
+    },
+    {
+      "id": "prod-19cf38a2-005",
+      "name": "Elite Item 5",
+      "category": "sports",
+      "price": 218.01,
+      "stock": 144,
+      "rating": 2.8
+    },
+    {
+      "id": "prod-19cf38a2-006",
+      "name": "Elite Item 6",
+      "category": "books",
+      "price": 418.71,
+      "stock": 27,
+      "rating": 1.9
+    },
+    {
+      "id": "prod-19cf38a2-007",
+      "name": "Pro Item 7",
+      "category": "sports",
+      "price": 98.73,
+      "stock": 150,
+      "rating": 4
+    },
+    {
+      "id": "prod-19cf38a2-008",
+      "name": "Premium Item 8",
+      "category": "sports",
+      "price": 211.68,
+      "stock": 142,
+      "rating": 2.7
+    },
+    {
+      "id": "prod-19cf38a2-009",
+      "name": "Standard Item 9",
+      "category": "clothing",
+      "price": 425.28,
+      "stock": 70,
+      "rating": 2
+    },
+    {
+      "id": "prod-19cf38a2-010",
+      "name": "Elite Item 10",
+      "category": "books",
+      "price": 292.95,
+      "stock": 175,
+      "rating": 4.9
+    },
+    {
+      "id": "prod-19cf38a2-011",
+      "name": "Pro Item 11",
+      "category": "clothing",
+      "price": 167.85,
+      "stock": 193,
+      "rating": 3.5
+    },
+    {
+      "id": "prod-19cf38a2-012",
+      "name": "Premium Item 12",
+      "category": "sports",
+      "price": 250.75,
+      "stock": 172,
+      "rating": 4.6
+    },
+    {
+      "id": "prod-19cf38a2-013",
+      "name": "Elite Item 13",
+      "category": "books",
+      "price": 134.7,
+      "stock": 65,
+      "rating": 4.3
+    },
+    {
+      "id": "prod-19cf38a2-014",
+      "name": "Premium Item 14",
+      "category": "home",
+      "price": 109.61,
+      "stock": 0,
+      "rating": 3.7
+    },
+    {
+      "id": "prod-19cf38a2-015",
+      "name": "Standard Item 15",
+      "category": "clothing",
+      "price": 70.36,
+      "stock": 133,
+      "rating": 1.3
+    },
+    {
+      "id": "prod-19cf38a2-016",
+      "name": "Elite Item 16",
+      "category": "clothing",
+      "price": 491.34,
+      "stock": 18,
+      "rating": 1.2
+    },
+    {
+      "id": "prod-19cf38a2-017",
+      "name": "Elite Item 17",
+      "category": "home",
+      "price": 180.31,
+      "stock": 15,
+      "rating": 3.7
+    },
+    {
+      "id": "prod-19cf38a2-018",
+      "name": "Pro Item 18",
+      "category": "clothing",
+      "price": 334.21,
+      "stock": 147,
+      "rating": 3.7
+    },
+    {
+      "id": "prod-19cf38a2-019",
+      "name": "Premium Item 19",
+      "category": "sports",
+      "price": 89.89,
+      "stock": 8,
+      "rating": 3.1
+    },
+    {
+      "id": "prod-19cf38a2-020",
+      "name": "Standard Item 20",
+      "category": "home",
+      "price": 206.96,
+      "stock": 189,
+      "rating": 2.6
+    },
+    {
+      "id": "prod-19cf38a2-021",
+      "name": "Basic Item 21",
+      "category": "clothing",
+      "price": 422.33,
+      "stock": 65,
+      "rating": 3.8
+    },
+    {
+      "id": "prod-19cf38a2-022",
+      "name": "Elite Item 22",
+      "category": "electronics",
+      "price": 316.59,
+      "stock": 189,
+      "rating": 1.3
+    },
+    {
+      "id": "prod-19cf38a2-023",
+      "name": "Standard Item 23",
+      "category": "home",
+      "price": 244.1,
+      "stock": 11,
+      "rating": 1.2
+    }
+  ],
+  "aggregations": {
+    "electronics": {
+      "count": 3,
+      "inventoryValue": 177567.71
+    }
+  }
+}
